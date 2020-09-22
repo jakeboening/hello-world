@@ -1,2 +1,5 @@
 # hello-world
-First repository as demonstration
+
+Yes, I am writing a README. Soon I will be taking over the planet.
+
+I will make a program that processes two things SIMULTANEOUSLY.
